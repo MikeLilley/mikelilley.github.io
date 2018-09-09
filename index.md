@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/MikeLilley/mikelilley.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a student at the University of Michigan - Dearborn, studying Computer Science and Mathematics. My areas of interest include Computer Vision, Swarm Intelligence, Parallel Programming, and Robotics. Currently, I am working as a tutor for CIS, Mathematics, and Physics. On campus, I am involved in the Association for Computing Machinery and the Intelligent Systems Club.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Technologies
+### Languages
 
-### Markdown
+- C
+- C++
+- C#
+- Java
+- Haskell
+- Common LISP and Scheme
+- Prolog
+- R
+- Python
+- MATLAB
+- Mathematica
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Frameworks
+- OpenCV
+- Qt
+- TensorFlow
+- CUDA
+- OpenCL
 
-```markdown
-Syntax highlighted code block
+### Software
+- Autodesk Inventor
+- Autodesk AutoCAD
+- Autodesk Eagle
+- National Instruments Multisim
 
-# Header 1
-## Header 2
-### Header 3
+## Current Projects
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MikeLilley/mikelilley.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###
