@@ -37,4 +37,3 @@ function showPosition(position) {
 }
 </script>
 </html> 
-
