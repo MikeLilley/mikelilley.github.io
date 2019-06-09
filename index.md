@@ -11,7 +11,7 @@ text-align:center;
 border-radius: 12px;
 font_family:"Engravers MT"
 }
-    </style>
+ </style>
 
 <button onclick="getLocation()">SHARE LOCATION WITH FIRST RESPONDERS</button>
 <p id="demo"></p>
@@ -36,4 +36,8 @@ function showPosition(position) {
   "<br>Longitude: " + position.coords.longitude;
 }
 </script>
+
+<title> </title>
+
+<body> </body>
 </html> 
