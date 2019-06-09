@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <style>
 button {
 width: 200;
@@ -33,3 +35,5 @@ function showPosition(position) {
   "<br>Longitude: " + position.coords.longitude;
 }
 </script>
+</html> 
+
