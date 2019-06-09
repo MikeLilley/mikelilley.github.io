@@ -39,6 +39,7 @@ function showPosition(position) {
 
 <button onclick="window.location='https://www.google.com/maps/place/Ann+Arbor,+MI/@42.2732991,-83.8077299,12z/data=!3m1!4b1!4m5!3m4!1s0x883cb00dd4431f33:0xdb09f94686c8b5e2!8m2!3d42.2808256!4d-83.7430378';">Map Navigation</button>
 
+
 <title> </title>
 
 <body> </body>
